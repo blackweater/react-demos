@@ -4,15 +4,6 @@ These demos are purposely written in a simple and clear style. You will find no 
 
 
 ## How to use
-
-First copy the repo into your disk.
-
-```bash
-$ git clone git@github.com:ruanyf/react-demos.git
-```
-
-Then play with the source files under the repo's demo* directories.
-
 ## HTML Template
 
 ```html
